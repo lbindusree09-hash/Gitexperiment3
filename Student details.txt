@@ -1,0 +1,5 @@
+Name - Bindusree
+USN - 1GC25CS012
+Branch - CSE
+Semester - 3rd semester 
+Section - A section
